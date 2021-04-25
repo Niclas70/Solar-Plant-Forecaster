@@ -1,6 +1,8 @@
-# Solar-Plant-Forecaster
-1. Solar-Plant-Forecaster
-This is project to conclude the course Building AI
+# Solar Plant Forecaster
+
+Final project for the Building AI course
+
+## Summary
 
 The idea with the project is to create a tool too forecast energy production from a solar plant to know coming available energy and need of external energy inflow. This enables a way to control usage and storage of energy to control the buying and selling of electric energy.
 
