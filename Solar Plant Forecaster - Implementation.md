@@ -1,5 +1,7 @@
-# Solar Plant Forecaster - Implmentation
-Use machine learning to forecast energy production based on weather prognosis and sun angle parameters.
+# Solar Plant Forecaster - Implementation
+In this implementation machine learning was used to forecast energy production based on weather prognosis and sun angle parameters.
+
+This is a final thesis work of the course Building AI.  
 
 ## Input parameters
 
