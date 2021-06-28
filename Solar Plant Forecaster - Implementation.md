@@ -39,6 +39,7 @@ Epoch was set to 2000.
 The loss in fitting the training data was 0.04
 The loss of the test data was 14.68
 
+![GitHub Logo](/DiagramSolarPlantForecast.png)
 
 
 
